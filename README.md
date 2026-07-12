@@ -27,26 +27,5 @@
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css,mysql"/>
-</p>
-
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,mongodb,tailwind,tensorflow"/>
-</p>
-
-### Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,git,github,postman,figma,vscode"/>
-</p>
-
----
 
 

@@ -113,7 +113,7 @@ React • Tailwind CSS • Framer Motion
 
 # 📈 GitHub Contribution Graph
 
-[![Sanchay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Sanchay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanchayCoder06&theme=tokyo-night)
 
 ---
 

@@ -17,7 +17,13 @@
 ## 🌐 Connect With Me
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/sanchay-yadav-778abb27b/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="https://github.com/SanchayCoder06"><img src="https://skillicons.dev/icons?i=github"/></a> <a href="https://portfolio-sanchay-yadav.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sanchay-yadav-778abb27b/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="https://github.com/SanchayCoder06"><img src="https://skillicons.dev/icons?i=github"/></a> <a href="https://portfolio-sanchay-yadav.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a> 
+<a href="https://www.instagram.com/y_sanchay06/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  <a href="https://x.com/sanchay_y06" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  </a></p>
 
 ---
 

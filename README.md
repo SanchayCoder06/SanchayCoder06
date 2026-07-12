@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-* 🎓 Final-year B.Tech CSE student at **VIT Bhopal**
+* 🎓 Final-year B.Tech CSE student at **VIT University**
 * 💻 Passionate about **Full Stack Development, Java, Cloud Computing, and AI/ML**
 * 🌱 Currently learning **Spring Boot, System Design, AWS, and Advanced DSA**
 * 🔭 Working on **TradeVerse – A Trading Workspace for Swing Traders**
@@ -127,11 +127,7 @@ React • Tailwind CSS • Framer Motion
 
 ---
 
-# 📊 Visitor Count
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&label=Profile+Views\&color=0e75b6\&style=flat)
-
----
 
 ### 💡 Quote
 

@@ -17,9 +17,9 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="YOUR_GITHUB_URL"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/sanchay-yadav-778abb27b/"/></a>
+<a href="YOUR_GITHUB_URL"><img src="https://github.com/SanchayCoder06"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://portfolio-sanchay-yadav.vercel.app/"/></a>
 </p>
 
 ---
@@ -85,11 +85,12 @@ Java • Spring Boot • MySQL
 
 ## 🌐 Personal Portfolio
 
-Responsive portfolio with modern UI, smooth animations and interactive sections.
+A full-stack personal portfolio website showcasing my projects, skills, certifications, and experience with a modern, responsive user interface. Features a secure backend for contact form handling and dynamic data management.
 
 **Tech Stack**
 
-React • Tailwind CSS • Framer Motion
+React • Tailwind CSS • Framer Motion • Node.js • Express.js • MongoDB
+
 
 ---
 
@@ -103,36 +104,7 @@ React • Tailwind CSS • Framer Motion
 
 ---
 
-# 🏆 Leadership
 
-* Social Lead – Techno Mech Club
-* T-Hub & T-Works Industry Visit
-* Arduino & Robotics Workshop Participant
-
----
-
-# 📈 GitHub Contribution Graph
-
-query {
-  user(login: "SanchayCoder06") {
-    contributionsCollection {
-      contributionCalendar {
-        colors
-        totalContributions
-        weeks {
-          contributionDays {
-            color
-            contributionCount
-            date
-            weekday
-          }
-        }
-      }
-    }
-  }
-}
-
----
 
 
 

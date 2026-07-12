@@ -121,11 +121,6 @@ React • Tailwind CSS • Framer Motion
 
 ---
 
-# 🏅 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME\&theme=algolia\&margin-w=15)
-
----
 
 
 
